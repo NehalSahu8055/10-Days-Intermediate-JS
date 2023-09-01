@@ -1,0 +1,21 @@
+[submodule "10-Days-Intermediate-JS\\Day-1_Drum-Kit"]
+	path = 10-Days-Intermediate-JS\\Day-1_Drum-Kit
+	url = https://github.com/NehalSahu8055/Day-1-Drum-Kit-Web-App
+[submodule "10-Days-Intermediate-JS\\Day-2_Analog-Clock"]
+	path = 10-Days-Intermediate-JS\\Day-2_Analog-Clock
+	url = https://github.com/NehalSahu8055/Day-2-Clock-Web-App
+[submodule "10-Days-Intermediate-JS\\Day-3_Array-Cardio"]
+	path = 10-Days-Intermediate-JS\\Day-3_Array-Cardio
+	url = https://github.com/NehalSahu8055/Day-3-Array-Cardio-1
+[submodule "10-Days-Intermediate-JS\\Day-4_Flex-Panel-Gallery"]
+	path = 10-Days-Intermediate-JS\\Day-4_Flex-Panel-Gallery
+	url = https://github.com/NehalSahu8055/Day-4-Flex-Panel_Gallery
+[submodule "10-Days-Intermediate-JS\\Day-5_Search-City"]
+	path = 10-Days-Intermediate-JS\\Day-5_Search-City
+	url = https://github.com/NehalSahu8055/Day-5-Search-City-Web-App
+[submodule "10-Days-Intermediate-JS\\Day-6_CheckList"]
+	path = 10-Days-Intermediate-JS\\Day-6_CheckList
+	url = https://github.com/NehalSahu8055/Day-6-Todo-Web-App
+[submodule "10-Days-Intermediate-JS\\Day-7_Scroll_Image"]
+	path = 10-Days-Intermediate-JS\\Day-7_Scroll_Image
+	url = https://github.com/NehalSahu8055/Day-7-Slide-in-on-Scroll
